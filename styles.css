@@ -7,7 +7,7 @@ p{
     color: lightpink
 }
 h1,h2,h3,h4,h5,h6 {
-font-family: Verdana, Geneva, Tahoma, sans-serif,
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 color: lightyellow;
 font-style: italic;
 text-align: right;
@@ -44,23 +44,17 @@ ol {
 li{
     color: white;
     font-size: 20px;
-    font-weight: : bold;
+    font-weight: bold;
 
 }
 
 .fave{
-    color: orangered
+    color: orangered;
 
 }
+
 .pizza{
-    <img class="pizza" src="images/pizza.jpg" alt="a picture of a pizza"
-    width: 50%; 
- 
+
+    width: 50% 
 }
-{
-    <h2>But wait, there's something i like even more than pizza. <a href="cake.html" target="_blank"> It's a cake.</a><h2>
-
-}
-
-
 
